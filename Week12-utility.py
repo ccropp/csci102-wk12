@@ -14,3 +14,4 @@ def UpdateString(x,y,n):
 
 def FindWordCount(x,y):
     
+def ScoreFinder(x,y,z):
