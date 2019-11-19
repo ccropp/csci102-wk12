@@ -9,3 +9,5 @@ def PrintOutput(x):
 #PrintOutput('hello')
 
 def LoadFile(x):
+
+def UpdateString(x,y,n):
