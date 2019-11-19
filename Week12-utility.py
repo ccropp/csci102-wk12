@@ -6,4 +6,6 @@ def PrintOutput(x):
     x = str(x)
     print('OUTPUT {}'.format(x))
 
-PrintOutput('hello')
+#PrintOutput('hello')
+
+def LoadFile(x):
