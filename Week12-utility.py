@@ -20,4 +20,6 @@ def Union(x,y):
 
 def Intersection(x,y):
 
+def NotIn(x,y):
+
 
