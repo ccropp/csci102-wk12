@@ -17,4 +17,7 @@ def FindWordCount(x,y):
 def ScoreFinder(x,y,z):
 
 def Union(x,y):
-    
+
+def Intersection(x,y):
+
+
