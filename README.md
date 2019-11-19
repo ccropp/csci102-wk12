@@ -1,2 +1,5 @@
-# csci102-wk12
-Week12-utility.py repo
+# Used nano to edit
+# Cason Cropp
+# CSCI102-B
+# Week12 A
+
