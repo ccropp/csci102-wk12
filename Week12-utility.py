@@ -11,3 +11,6 @@ def PrintOutput(x):
 def LoadFile(x):
 
 def UpdateString(x,y,n):
+
+def FindWordCount(x,y):
+    
